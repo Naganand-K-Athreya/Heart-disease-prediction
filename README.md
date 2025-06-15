@@ -23,6 +23,24 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+Follow these steps to run the project locally 
+```sh
+# Step 1: Download the zip file and un-zip it.
+
+# Step 2: Open GitBash.
+
+# Step 3: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+bun install
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+bun run dev
+
+# Step 5: Once the server is running, you should see output like
+http://localhost:3000
+```
 
 **Edit a file directly in GitHub**
 
